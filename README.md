@@ -1,8 +1,8 @@
 # WebShell-Upload
-Este es un repositorio de WebShells. Con el archivo rce.py, podras interactuar con las WebShell a traves de la consola. El resto de archivos son las WebShells.
+Here you can find WebShells. With rce.py, you can interact with the WebShell from the console. The rest of the files are the WebShells.
 
-Para usar rce.py, tienes que pasarle al script, como argumento, la url de la página donde la WebShell se encuentra. Por ejemplo:
+To use rce.py, you must pass to the script, as argument, the url of the webpage where the WebShell is located. For example:
 
-python rce.py http://paginavulnerable.com/uploads/rce.asp?cmd=
+python rce.py http://vulnerablewebsite.com/uploads/rce.asp?cmd=
 
 python rce.py https://192.168.1.52:443/uploads/rce.php?cmd=
